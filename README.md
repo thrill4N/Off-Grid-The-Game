@@ -104,4 +104,4 @@ Each contributor played a role in:
 Game design & development
 Research & documentation
 User interaction design
-Testing & iteration
+Testing & iteration 
